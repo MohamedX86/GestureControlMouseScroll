@@ -11,7 +11,7 @@ A computer vision project that enables controlling mouse scrolling using hand ge
 - Python
 - OpenCV
 - Mediapipe
-- PyAutoGUI (لو مستخدمه)
+- PyAutoGUI 
 
 ## ⚙️ Installation
 
